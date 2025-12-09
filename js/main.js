@@ -75,11 +75,11 @@ function preload() {
     // 特殊方块（五连合成用，先预加载，之后再用）
     this.load.image('tile_special', 'assets/tile_special.jpg');
 
-    this.load.audio('egg1', 'assets/egg1.mp3'); // 9200 分
-    this.load.audio('egg2', 'assets/egg2.mp3'); // 16500 分
-    this.load.audio('egg3', 'assets/egg3.mp3'); // 19200 分
+    this.load.audio('egg1', 'assets/egg1.MP3'); // 9200 分
+    this.load.audio('egg2', 'assets/egg2.MP3'); // 16500 分
+    this.load.audio('egg3', 'assets/egg3.MP3'); // 19200 分
 
-    this.load.audio('sfx_clear', 'assets/sfx_clear.mp3');
+    this.load.audio('sfx_clear', 'assets/sfx_clear.MP3');
 }
 
 // ================== 创建场景 ==================
