@@ -828,7 +828,7 @@ function checkSpecialWin(scene) {
             saveHighScore();
         }
 
-        alert('155800！五花八门夺冠了！快截图给四胞胎炫耀吧！本局得分：');
+        alert('155800！五花八门夺冠了！快截图给四胞胎炫耀吧！');
 
         // 重置本局
         score = 0;
